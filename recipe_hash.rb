@@ -20,7 +20,7 @@ perfect_10_recipe = {
 
 #1. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
-  perfect_10_recipe[:mini_dark_chocolate_chips]
+  perfect_10_recipe
 end
 
 
